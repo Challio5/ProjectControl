@@ -1,4 +1,4 @@
-package nl.projectgroepb1.projectcontrol;
+package nl.eti1b1.main;
 
 /**
  * De Klasse ProtocolConstanten, Deze klasse dient ervoor zodat er mochten er

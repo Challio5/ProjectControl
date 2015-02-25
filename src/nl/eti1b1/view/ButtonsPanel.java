@@ -1,6 +1,6 @@
 // Projectgroep b1 2014
 
-package Views;
+package nl.eti1b1.view;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionListener;

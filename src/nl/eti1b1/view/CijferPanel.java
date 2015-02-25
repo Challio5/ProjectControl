@@ -1,4 +1,4 @@
-package Views;
+package nl.eti1b1.view;
 
 import java.awt.Font;
 import java.awt.GridLayout;
@@ -8,7 +8,7 @@ import java.util.Observer;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-import Model.Kluis;
+import nl.eti1b1.model.Kluis;
 
 /**
  * De klasse cijferpaneel deze klasse laat de ingevulde getallen zien.

@@ -1,6 +1,6 @@
 // Projectgroep b1 2014
 
-package Views;
+package nl.eti1b1.view;
 
 import java.awt.GridLayout;
 import java.util.Observable;
@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import Model.Kluis;
+import nl.eti1b1.model.Kluis;
 
 /**
  * De Klasse Tekspanel, deze klasse verzorgt het in en uitvoer veld

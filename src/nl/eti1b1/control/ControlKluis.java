@@ -1,16 +1,17 @@
-package Controllers;
+package nl.eti1b1.control;
 
-import Model.*;
-import nl.projectgroepb1.projectcontrol.*;
-import Views.*;
-
+import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.*;
 
 import javax.swing.JFrame;
 
-import nl.projectgroepb1.projectcontrol.Main;
+import nl.eti1b1.main.Main;
+import nl.eti1b1.main.ProtocolConstanten;
+import nl.eti1b1.model.Kluis;
+import nl.eti1b1.view.CijferPanel;
+import nl.eti1b1.view.TekstPanel;
+import nl.eti1b1.view.ViewKluis;
 
 /**
  * De klasse ControlKluis, dit is de grootste control klasse, van hieruit wordt

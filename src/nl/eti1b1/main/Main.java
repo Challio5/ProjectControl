@@ -1,12 +1,12 @@
 // Projectgroep b1 2014
 
-package nl.projectgroepb1.projectcontrol;
+package nl.eti1b1.main;
 
 import java.awt.BorderLayout;
 
-import javax.swing.*;
+import javax.swing.JFrame;
 
-import Controllers.*;
+import nl.eti1b1.control.ControlKluis;
 
 /**
  * Dit is de main klasse, hier wordt de applicatie gestart

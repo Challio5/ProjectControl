@@ -1,4 +1,4 @@
-package Model;
+package nl.eti1b1.model;
 
 import java.util.Observable;
 

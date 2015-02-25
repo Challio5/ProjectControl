@@ -1,22 +1,19 @@
-package Controllers;
+package nl.eti1b1.control;
 
-import java.io.BufferedReader;
-
-import Views.*;
-
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-
-import Model.*;
 import gnu.io.CommPortIdentifier;
 import gnu.io.SerialPort;
 import gnu.io.SerialPortEvent;
 import gnu.io.SerialPortEventListener;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
 import java.util.Enumeration;
 
-import nl.projectgroepb1.projectcontrol.ProtocolConstanten;
+import nl.eti1b1.main.ProtocolConstanten;
+import nl.eti1b1.model.Kluis;
+import nl.eti1b1.view.ViewKluis;
 
 /**
  * De Serial Handler klasse, deze klasse handelt alle data af die via de

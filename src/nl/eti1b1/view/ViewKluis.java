@@ -1,14 +1,12 @@
 // Projectgroep b1 2014
 
-package Views;
+package nl.eti1b1.view;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
-
-import Views.ButtonPanel;
 
 /**
  * De klasse ViewKluis dit is het JPanel waar alle andere views ingeplaatst zijn
